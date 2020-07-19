@@ -29,7 +29,7 @@ My primary interests are as follows (not necessarily in this order):
 ### Contact
 
 <p align="left">
-  <a href="https://linkedin.com/in/ramanshsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/ramanshsharma1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="mailto:sharmar@bxscience.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kushal.bhanot.98" height="60" width="60" /></a>
+  <a href="https://linkedin.com/in/ramanshsharma" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/ramanshsharma1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="mailto:sharmar@bxscience.edu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kushal.bhanot.98" height="60" width="60" /></a>
 </p>
