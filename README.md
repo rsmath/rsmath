@@ -1,5 +1,15 @@
 # Hi there, I am Ram!
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/ramanshsharma2806/count.svg" alt="vistor count" height="50" /></td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ramanshsharma2806&&show_icons=trueicon_color=bb2acf&text_color=ffffff&bg_color=242424" width="50%"/>
+
+
 ### Latest
 
 I'm currrently working on a project at [Omdena](https://omdena.com/) in partnership with [TrashOut](https://www.trashout.ngo/) to predict illegal dumpsites occuring all over the world.
@@ -18,4 +28,8 @@ My primary interests are as follows (not necessarily in this order):
 
 ### Contact
 
-You can reach out to me at my email [sharmar@bxscience.edu](mailto:sharmar@bxscience.edu) or better yet, at my LinkedIn profile [https://www.linkedin.com/in/ramanshsharma/](https://www.linkedin.com/in/ramanshsharma/).
+<p align="left">
+  <a href="https://linkedin.com/in/ramanshsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/ramanshsharma1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="mailto:sharmar@bxscience.edu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kushal.bhanot.98" height="60" width="60" /></a>
+</p>
