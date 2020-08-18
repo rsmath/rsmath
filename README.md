@@ -7,7 +7,6 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramanshsharma2806&&show_icons=trueicon_color=bb2acf&text_color=ffffff&bg_color=242424" width="50%"/>
 
 
 ### Latest
