@@ -21,7 +21,7 @@ My primary interests are as follows (not necessarily in this order):
 
 1. Neural Networks.
 2. Working on projects using Neural Networks.
-3. Hosting awesome events as a [http://deeplearning.ai/](http://deeplearning.ai/) Ambassador.
+3. Hosting awesome events as a [deeplearning.ai](http://deeplearning.ai/) Ambassador.
 
 *Fun fact*: In 2018, I stood at the 4th position in the annual PSAL Boys Badminton Individual Championships - [go here](https://challonge.com/2018PSALBoysSingles/standings).
 
