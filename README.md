@@ -23,7 +23,7 @@ My primary interests are as follows (not necessarily in this order):
 2. Working on projects using Neural Networks.
 3. Hosting awesome events as a [deeplearning.ai](http://deeplearning.ai/) Ambassador.
 
-*Fun fact*: In 2018, I stood at the 4th position in the annual PSAL Boys Badminton Individual Championships - [go here](https://challonge.com/2018PSALBoysSingles/standings).
+*Fun fact*: In 2018, The Bronx High School of Science won the Boys Varsity Badminton championship for the _first time_ under my captaincy - check out the photos [here](https://www.flickr.com/photos/30144140@N05/albums/72157674450437607).
 
 ### Contact
 
