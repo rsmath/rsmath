@@ -11,19 +11,19 @@
 
 ### Latest
 
-I'm currrently working on a project at [Omdena](https://omdena.com/) in partnership with [TrashOut](https://www.trashout.ngo/) to predict illegal dumpsites occuring all over the world.
+I've just finished on a project at [Omdena](https://omdena.com/) in partnership with [TrashOut](https://www.trashout.ngo/) to predict illegal dumpsites occuring all over the world.
 
-These days, I am learning the [PyTorch](https://pytorch.org/) library used for deep learning (shh! it might be my new favorite, tensorflow can't know yet).
+These days, I have started to work on my first research paper. Did you know that CNN's are really expensive to train on Google colab ;( If you have experience with implementing U-Net in TensorFlow, please reach out to me :D
 
 ### Interests
 
 My primary interests are as follows (not necessarily in this order):
 
 1. Neural Networks.
-2. Justifying the library I am using these days to implement said neural networks.
-3. Writing blogs, [my blog](https://ramanshsharma2806.github.io/blog) and [Medium blog](https://medium.com/@ramanshsharma).
+2. Working on projects using Neural Networks.
+3. Hosting awesome events as a [http://deeplearning.ai/](http://deeplearning.ai/) Ambassador.
 
-*Fun fact*: I pour milk before cereal.
+*Fun fact*: In 2018, I stood at the 4th position in the annual PSAL Boys Badminton Individual Championships - [go here](https://challonge.com/2018PSALBoysSingles/standings).
 
 ### Contact
 
