@@ -8,7 +8,12 @@
 </table>
 
 
-<p align="center"><img src="/tex/88ab049811a26e88295cf50e312fa4df.svg?invert_in_darkmode&sanitize=true" align=middle width=369.2250672pt height=24.5004342pt/></p>
+$$
+\Huge\begin{equation}
+G_{\mu\nu} \equiv R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}
+\end{equation}
+$$
+
 
 *Fun fact*: In 2018, The Bronx High School of Science won the Boys Varsity Badminton championship for the _first time_ under my captaincy - check out the photos [here](https://www.flickr.com/photos/30144140@N05/albums/72157674450437607).
 
