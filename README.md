@@ -16,6 +16,8 @@
 
 
 ## Contact
+
+
 <p align="left">
   <a href="https://linkedin.com/in/ramanshsharma" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
