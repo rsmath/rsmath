@@ -1,4 +1,5 @@
-<p align="center"><img src="/tex/383b9792e684d20ec16286248ffd2f87.svg?invert_in_darkmode&sanitize=true" align=middle width=4.5662232pt height=4.9315101pt/></p>
+# 𝕲𝖗𝖊𝖊𝖙𝖎𝖓𝖌𝖘, 𝕴 𝖆𝖒 𝕽𝖆𝖒
+
 
 <table>
   <tr>
