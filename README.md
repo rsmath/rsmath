@@ -10,7 +10,7 @@
 
 <p align="center"><img src="/tex/5fcdd8035347fc4ef9f42dacd4400072.svg?invert_in_darkmode&sanitize=true" align=middle width=649.79729595pt height=84.9085314pt/></p>
 
-*Fun fact*: In 2018, The Bronx High School of Science won the Boys Varsity Badminton championship for the _first time_ under my captaincy - check out the photos [here](https://www.flickr.com/photos/30144140@N05/albums/72157674450437607).
+### *Fun fact*: In 2018, The Bronx High School of Science won the Boys Varsity Badminton championship for the _first time_ under my captaincy - check out the photos [here](https://www.flickr.com/photos/30144140@N05/albums/72157674450437607).
 
 ### Contact
 
