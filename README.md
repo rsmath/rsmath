@@ -1,6 +1,4 @@
-$$
-\huge𝕲𝖗𝖊𝖊𝖙𝖎𝖓𝖌𝖘, 𝕴 𝖆𝖒 𝕽𝖆𝖒
-$$
+# 𝕲𝖗𝖊𝖊𝖙𝖎𝖓𝖌𝖘, 𝕴 𝖆𝖒 𝕽𝖆𝖒
 
 <p align="center"><img src="/tex/5fcdd8035347fc4ef9f42dacd4400072.svg?invert_in_darkmode&sanitize=true" align=middle width=649.79729595pt height=84.9085314pt/></p>
 
